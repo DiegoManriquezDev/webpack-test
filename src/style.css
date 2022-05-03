@@ -1,4 +1,13 @@
+@font-face {
+    font-family: 'Indie Flower';
+    src: url('./IndieFlower.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
 .hello {
     color: red;
+    font-family: 'Indie Flower';
     background: url('./icon.png');
 }
